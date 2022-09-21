@@ -11,12 +11,14 @@ Always I am ready to prove myself through my work and hard-working individual pr
 - 📫 How to reach me: alockpaul9845@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aonikpaulalock)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aonik-paul-alock-353b78229//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/aonikpaul.sourob)  
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/aonikpaul.sourob/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aonik-paul-alock-353b78229/) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aonikpaulalock&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aonikpaulalock&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aonikpaulalock&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Github Star
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+---
+[![](https://visitcount.itsvg.in/api?id=aonikpaulalock&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub metrics](https://metrics.lecoq.io/aonikpaulalock)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aonikpaulalock)  
 
