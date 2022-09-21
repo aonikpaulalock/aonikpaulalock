@@ -20,7 +20,6 @@ Always I am ready to prove myself through my work and hard-working individual pr
 ## 🌐 Follow:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/aonikpaul.sourob/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aonik-paul-alock-353b78229/) 
 
----
 
 
 
