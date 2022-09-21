@@ -1,13 +1,12 @@
 ![Full Stack Developer [ MERN ]](https://i.ibb.co/BLWYx1q/1654670711740.jpg)
-# Hi there 👋, I'm Aonik Paul Alock
-#### Full Stack Developer [ MERN ]
+# Hi👋, I'm Aonik Paul Alock
+### Full Stack Developer [ MERN ]
 ---
 
-Always I am ready to prove myself through my work and hard-working individual proficiency in web technologies.
+###### Always I am ready to prove myself through my work and hard-working individual proficiency in web technologies.
 
 ---
-
-### Profile views
+#### Profile views
 [![](https://visitcount.itsvg.in/api?id=aonikpaulalock&icon=1&color=0)](https://visitcount.itsvg.in)
 ---
 - 🔭 I’m currently working on Fitness Club 
