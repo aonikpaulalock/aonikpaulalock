@@ -4,7 +4,7 @@
 #### Always I am ready to prove myself through my work and hard-working individual proficiency in web technologies.
 
 
-#### 👀 Profile views
+### 👀 Profile views
 [![](https://visitcount.itsvg.in/api?id=aonikpaulalock&icon=1&color=0)](https://visitcount.itsvg.in)
 --
 - 🔭 I’m currently working on [Fitness Club](https://sunny-nasturtium-f11e5e.netlify.app/)
