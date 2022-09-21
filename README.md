@@ -14,7 +14,7 @@ Always I am ready to prove myself through my work and hard-working individual pr
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aonikpaulalock)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aonik-paul-alock-353b78229//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/aonikpaul.sourob)  
 
 # Github Star
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aonikpaulalock&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ![GitHub metrics](https://metrics.lecoq.io/aonikpaulalock)  
 
