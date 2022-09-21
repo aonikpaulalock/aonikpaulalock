@@ -27,7 +27,6 @@
 <br/>
 
 ![GitHub metrics](https://metrics.lecoq.io/aonikpaulalock)
-
 <br/>
 
 ## 📊 GitHub Stats:
