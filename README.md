@@ -1,5 +1,5 @@
 ![Full Stack Developer [ MERN ]](https://i.ibb.co/BLWYx1q/1654670711740.jpg)
-<h1 align="center">Hi 👋, I'm Aonik Paul Alock [ <sub>Junior Full Stack Developer [ MERN ] ]</sub></h1>
+<h1 align="center">Hi 👋, I'm Aonik Paul Alock  [ <sub>Junior Full Stack Developer [ MERN ]</sub> ]</h1>
 
 ##### Always I am ready to prove myself through my work and hard-working individual proficiency in web technologies.
 
