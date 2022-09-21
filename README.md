@@ -7,6 +7,7 @@ Full Stack Developer [ MERN ]
 
 #### 👀 Profile views
 [![](https://visitcount.itsvg.in/api?id=aonikpaulalock&icon=1&color=0)](https://visitcount.itsvg.in)
+--
 - 🔭 I’m currently working on [Fitness Club](https://sunny-nasturtium-f11e5e.netlify.app/)
 
 - 🌱 I’m currently learning **React**
