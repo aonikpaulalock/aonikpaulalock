@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co/GdMvfP8/fcf7fd0c619bb87706533079240915f3.gif)
+![I am GitHub Readme Generator's creator](https://i.ibb.co/3m2K8Cw/1654670711740.jpg)
 <h1 align="left">Hi 👋, I'm Aonik Paul Alock  <sub> - Junior Full Stack Developer [ MERN ]</sub> </h1>
 
 #### Always I am ready to prove myself through my work and hard-working individual proficiency in web technologies.
