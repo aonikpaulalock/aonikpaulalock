@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **alockpaul9845@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13vVtjpDKI70DzqoFv7HVKmrhBbeDYlbh/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ES25Xv0NS2I-TD5EoJyOKYPVCTopNsIe/view?usp=sharing)
 
 
 <h2 align="left">Skills</h3>
