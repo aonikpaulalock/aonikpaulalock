@@ -7,15 +7,15 @@
 ### 👀 Profile views
 [![](https://visitcount.itsvg.in/api?id=aonikpaulalock&icon=1&color=0)](https://visitcount.itsvg.in)
 --
-- 🔭 I’m currently working on my weekness
+- 🔭 I’m currently working on my weakness.
 
-- 🌱 I’m currently learning **Next Js **
+- 🌱 I’m currently learning **Next Js**
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **alockpaul9845@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16qRrKkzRqsY5wQkbBDm6v2NRqhpiZxHw/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13vVtjpDKI70DzqoFv7HVKmrhBbeDYlbh/view?usp=sharing)
 
 
 <h2 align="left">Skills</h3>
