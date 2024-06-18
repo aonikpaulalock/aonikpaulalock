@@ -20,7 +20,6 @@ I'm a passionate Full Stack Developer with expertise in frontend and backend tec
 
 ### 👀 Profile views
 [![](https://visitcount.itsvg.in/api?id=aonikpaulalock&icon=1&color=0)](https://visitcount.itsvg.in)
-
 --
 - 🔭 I’m currently working on my weakness.
 
