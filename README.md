@@ -1,17 +1,18 @@
 <!-- Image -->
 <p align="center">
-  <img src="https://i.ibb.co/3m2K8Cw/1654670711740.jpg" alt="Profile Image">
+  <img src="https://i.ibb.co/3m2K8Cw/1654670711740.jpg" alt="I am GitHub Readme Generator's creator">
 </p>
 
 <!-- Fancy Title Container -->
-<div align="center" style="background-color: #f0f0f0; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px;">
+<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; color: #2F80ED; text-shadow: 2px 2px 4px #000000; margin: 0;">
     Hi 👋, I'm Aonik Paul Alock
   </h1>
-  <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: normal; color: #555; margin-top: 5px;">
-    Full Stack Developer
+  <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: normal; color: #555;">
+    Junior Full Stack Developer [ MERN ]
   </h3>
 </div>
+
 
 ## 🚀 About Me
 
@@ -76,23 +77,20 @@ I'm a passionate Full Stack Developer with expertise in frontend and backend tec
 [![Chrome DevTools](https://img.shields.io/badge/-Chrome_DevTools-4FC08D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://developer.chrome.com/docs/devtools)
 [![Superbase](https://img.shields.io/badge/-Superbase-0044FF?style=for-the-badge&logo=superbase&logoColor=white)]([https://superbase.io/](https://supabase.com/))
 
+
 ## 📊 GitHub Stats
 
-<div style="max-width: 100%; overflow: hidden; border-radius: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aonikpaulalock&show_icons=true&theme=dark" alt="Your GitHub stats" style="width: 100%; height: auto; display: block; border-radius: 10px;">
-</div>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aonikpaulalock&show_icons=true&theme=dark)
 
 ## 📈 Top Languages
 
-<div style="max-width: 100%; overflow: hidden; border-radius: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aonikpaulalock&layout=compact&theme=dark" alt="Top Languages" style="width: 100%; height: auto; display: block; border-radius: 10px;">
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aonikpaulalock&layout=compact&theme=dark)
 
 
 ## 🏆 Achievements
 
-<div style="margin-right: 20px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+<div>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"  style="margin-right: 20px;">
     <img src="https://github-profile-trophy.vercel.app/?username=aonikpaulalock&theme=onedark" alt="trophy" style="width: 100%; height: auto;">
   </a>
 </div>
