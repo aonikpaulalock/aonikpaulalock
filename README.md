@@ -3,15 +3,14 @@
   <img src="https://i.ibb.co/3m2K8Cw/1654670711740.jpg" alt="I am GitHub Readme Generator's creator">
 </p>
 
+
 <!-- Fancy Title Container -->
-<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; color: #2F80ED; text-shadow: 2px 2px 4px #000000; margin: 0;">
-    Hi 👋, I'm Aonik Paul Alock
+<div align="center" style="background-color: #f0f0f0; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px;">
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.5em; font-weight: bold; color: #2F80ED; text-shadow: 2px 2px 4px #000000; margin: 0;">
+    Hi 👋, I'm Aonik Paul Alock <sub style="font-size: 0.5em;">- Full Stack Developer</sub>
   </h1>
-  <h3 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: normal; color: #555;">
-    Junior Full Stack Developer [ MERN ]
-  </h3>
 </div>
+
 
 
 ## 🚀 About Me
@@ -21,6 +20,7 @@ I'm a passionate Full Stack Developer with expertise in frontend and backend tec
 
 ### 👀 Profile views
 [![](https://visitcount.itsvg.in/api?id=aonikpaulalock&icon=1&color=0)](https://visitcount.itsvg.in)
+
 --
 - 🔭 I’m currently working on my weakness.
 
