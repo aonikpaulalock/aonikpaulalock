@@ -78,15 +78,24 @@ I'm a passionate Full Stack Developer with expertise in frontend and backend tec
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aonikpaulalock&show_icons=true&theme=dark)
+<div style="max-width: 100%; overflow: hidden; border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=aonikpaulalock&show_icons=true&theme=dark" alt="Your GitHub stats" style="width: 100%; height: auto; display: block; border-radius: 10px;">
+</div>
 
 ## 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aonikpaulalock&layout=compact&theme=dark)
+<div style="max-width: 100%; overflow: hidden; border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aonikpaulalock&layout=compact&theme=dark" alt="Top Languages" style="width: 100%; height: auto; display: block; border-radius: 10px;">
+</div>
+
 
 ## 🏆 Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aonikpaulalock&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div style="margin-right: 20px;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aonikpaulalock&theme=onedark" alt="trophy" style="width: 100%; height: auto;">
+  </a>
+</div>
 
 ## 📫 Connect with Me
 
