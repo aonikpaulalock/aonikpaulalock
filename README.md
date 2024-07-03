@@ -18,7 +18,7 @@
 
 
 
-## 🚀 About Me
+# 🚀 About Me
 
 I'm a passionate Full Stack Developer with expertise in frontend and backend technologies.
 
@@ -35,13 +35,13 @@ I'm a passionate Full Stack Developer with expertise in frontend and backend tec
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/16gF5wUT1y-0f1K1P3-tGTgJmCUiULBy1/view?usp=sharing)
 
 
-## 🛠 Skills
+# 🛠 Skills
 
-### Languages
+## Languages
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 
-### Frontend
+## Frontend
 [![HTML5](https://img.shields.io/badge/-HTML5-333?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://www.w3schools.com/sass/)
@@ -54,7 +54,7 @@ I'm a passionate Full Stack Developer with expertise in frontend and backend tec
 [![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
-### Backend
+## Backend
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/docs/latest/api/)
 [![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://cloud.mongodb.com/v2/626b62e7de0ac06fb24151e1#/overview)
@@ -62,7 +62,7 @@ I'm a passionate Full Stack Developer with expertise in frontend and backend tec
 [![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 
 
-### Familiar
+## Familiar
 [![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)](https://docs.stripe.com/stripe-js/react)
 [![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens)](https://jwt.io/)
 [![React Tanstack](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)](https://tanstack.com/query/v3)
@@ -70,7 +70,7 @@ I'm a passionate Full Stack Developer with expertise in frontend and backend tec
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![SSL Commerz](https://img.shields.io/badge/-SSL_Commerz-FFD700?style=for-the-badge&logo=sslcommerz&logoColor=black)](https://www.sslcommerz.com/)
 
-### Tools
+## Tools
 [![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)](https://github.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)](https://github.com/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-05122A?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
@@ -80,16 +80,16 @@ I'm a passionate Full Stack Developer with expertise in frontend and backend tec
 [![Superbase](https://img.shields.io/badge/-Superbase-0044FF?style=for-the-badge&logo=superbase&logoColor=white)]([https://superbase.io/](https://supabase.com/))
 
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aonikpaulalock&show_icons=true&theme=dark)
 
-## 📈 Top Languages
+# 📈 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aonikpaulalock&layout=compact&theme=dark)
 
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 <div>
   <a href="https://github.com/ryo-ma/github-profile-trophy"  style="margin-right: 20px;">
@@ -98,7 +98,7 @@ I'm a passionate Full Stack Developer with expertise in frontend and backend tec
 </div>
 
 
-### 👀 Profile views
+## 👀 Profile views
 [![](https://visitcount.itsvg.in/api?id=aonikpaulalock&icon=1&color=0)](https://visitcount.itsvg.in)
 --
 
