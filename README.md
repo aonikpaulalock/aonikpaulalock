@@ -22,13 +22,9 @@
 
 I'm a passionate Full Stack Developer with expertise in frontend and backend technologies.
 
-
-### 👀 Profile views
-[![](https://visitcount.itsvg.in/api?id=aonikpaulalock&icon=1&color=0)](https://visitcount.itsvg.in)
---
 - 🔭 I’m currently working on my weakness.
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning advance technology
 
 - 💬 Ask me about **Web Development**
 
@@ -98,6 +94,11 @@ I'm a passionate Full Stack Developer with expertise in frontend and backend tec
     <img src="https://github-profile-trophy.vercel.app/?username=aonikpaulalock&theme=onedark" alt="trophy" style="width: 100%; height: auto;">
   </a>
 </div>
+
+
+### 👀 Profile views
+[![](https://visitcount.itsvg.in/api?id=aonikpaulalock&icon=1&color=0)](https://visitcount.itsvg.in)
+--
 
 ## 📫 Connect with Me
 
