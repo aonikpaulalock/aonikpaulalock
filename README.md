@@ -22,13 +22,13 @@
 
 I'm a passionate Full Stack Developer with expertise in frontend and backend technologies.
 
-- 🌱 I’m currently learning advance technology and working on my weakness.
+- 🌱 I’m currently learning **advance technology** and working on my **weakness**.
 
 - 👯 I’m looking to collaborate on software development related content.
 
 - 💬 Ask me about **Web Development**
 
-- ⚡ Fun fact - I'm not perfect but honest .
+- ⚡ Fun fact - I'm not perfect but **honest** .
 
 - 📫 How to reach me **alockpaul9845@gmail.com**
 
