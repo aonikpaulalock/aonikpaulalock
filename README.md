@@ -1,6 +1,6 @@
 <!-- Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/KLrZvRk/banner.jpg" alt="I am GitHub Readme Generator's creator">
+  <img src="[https://i.ibb.co.com/KLrZvRk/banner.jpg](https://i.ibb.co.com/KLrZvRk/banner.jpg)" alt="I am GitHub Readme Generator's creator">
 </p>
 
 <!-- 
