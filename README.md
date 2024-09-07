@@ -1,6 +1,6 @@
 <!-- Image -->
 <p align="center">
-  <img src="https://i.imghippo.com/files/LgDmh1725698704.png" alt="I am GitHub Readme Generator's creator">
+  <img src="https://i.imghippo.com/files/ikCy41725709330.png" alt="I am GitHub Readme Generator's creator">
 </p>
 
 <!-- Fancy Title Container -->
